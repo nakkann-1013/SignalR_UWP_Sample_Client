@@ -1,0 +1,1 @@
+C:\Users\ccsuser06\Desktop\work\決済手順書用\SignalRSampleClient\SignalRSampleClient\SignalRSampleClient.csproj;x86
